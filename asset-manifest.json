@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/revistafront/static/css/main.f6b3477b.css",
+    "main.js": "/revistafront/static/js/main.4b68ef69.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/revistafront/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.png": "/revistafront/static/media/logo.f602099c37968c8c5cb9.png",
+    "index.html": "/revistafront/index.html",
+    "main.f6b3477b.css.map": "/revistafront/static/css/main.f6b3477b.css.map",
+    "main.4b68ef69.js.map": "/revistafront/static/js/main.4b68ef69.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/revistafront/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b3477b.css",
+    "static/js/main.4b68ef69.js"
+  ]
+}
